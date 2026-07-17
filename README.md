@@ -429,18 +429,13 @@ O uso do NotebookLM permitiu organizar as informações presentes nas fontes, co
 ├── README.md
 ├── fontes/
 │   └── fontes.md
+|   └── PDFs dos artigos (5)
 ├── prompts/
 │   ├── perguntas-iniciais.md
 │   ├── prompts-aprimorados.md
 │   └── cicatrizes-e-troubleshooting.md
-├── respostas/
-│   ├── resposta-phishing.md
-│   ├── resposta-engenharia-social.md
-│   └── resposta-ia-na-deteccao.md
 ├── miniguia/
 │   ├── resumo-estruturado.md
 │   ├── glossario.md
 │   └── prompts-reutilizaveis.md
-└── assets/
-    └── capturas-notebooklm/
 ```
