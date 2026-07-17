@@ -50,13 +50,13 @@ Foram selecionadas fontes abertas em formato de artigo, página informativa ou P
 
 Os materiais foram adicionados ao NotebookLM e utilizados como base para as perguntas, respostas e análises apresentadas neste projeto.
 
-| Fonte   | Autor ou instituição | Tipo              | Link         | Motivo da escolha                          |
-| ------- | -------------------- | ----------------- | ------------ | ------------------------------------------ |
-| Fonte 1 | Nome da instituição  | Artigo ou PDF     | Inserir link | Apresenta os fundamentos do phishing       |
-| Fonte 2 | Nome da instituição  | Relatório         | Inserir link | Apresenta dados sobre golpes digitais      |
-| Fonte 3 | Nome da instituição  | Artigo científico | Inserir link | Explica o uso de IA na detecção de ameaças |
-| Fonte 4 | Nome da instituição  | Guia              | Inserir link | Apresenta práticas de prevenção            |
-| Fonte 5 | Nome da instituição  | Relatório ou PDF  | Inserir link | Discute limitações e riscos da IA          |
+| Fonte | Autores e instituições | Ano | Tipo | Link | Motivo da escolha |
+|---|---|---:|---|---|---|
+| *A Briefed Review on Phishing Attacks and Detection Approaches* | Vinod Sapkal, Ninad More e Rupali Agme — CSMU e RAIT, Índia | 2022 | Artigo de revisão | [Acessar no SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4108334) | Apresenta os fundamentos do phishing, seu funcionamento, seus principais tipos e técnicas gerais de prevenção e detecção. |
+| *Deep Learning for Phishing Detection: Taxonomy, Current Challenges and Future Directions* | Nguyet Quang Do, Ali Selamat, Ondrej Krejcar, Enrique Herrera-Viedma e Hamido Fujita — Universiti Teknologi Malaysia e instituições parceiras da República Tcheca, Espanha, Arábia Saudita e Japão | 2022 | Revisão sistemática | [Acessar no IEEE Xplore](https://ieeexplore.ieee.org/document/9716113/) | Apresenta uma taxonomia das técnicas de deep learning aplicadas à detecção de phishing, além de vantagens, limitações e direções futuras de pesquisa. |
+| *Anti-Phishing Techniques – A Review of Cyber Defense Mechanisms* | Pawankumar Sharma, Bibhu Dash e Meraj Farheen Ansari — University of the Cumberlands, Estados Unidos | 2022 | Artigo de revisão | [Acessar no SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4335354) | Discute mecanismos de defesa, ferramentas anti-phishing, navegadores, alertas e ações de conscientização dos usuários. |
+| *Machine Learning and Neural Networks for Phishing Detection: A Systematic Review (2017–2024)* | Jacek Lukasz Wilk-Jakubowski, Lukasz Pawlik, Grzegorz Wilk-Jakubowski e Aleksandra Sikora — Kielce University of Technology e instituições parceiras da Polônia | 2025 | Revisão sistemática | [Acessar na MDPI](https://www.mdpi.com/2079-9292/14/18/3744) | Analisa o uso de machine learning e redes neurais na detecção de phishing, com atenção à qualidade dos dados, métricas, desbalanceamento, vazamento e validação temporal. |
+| *Social Engineering Attacks: Trends, Detection, and Prevention* | Asere Gbenga Femi, Innocent L. Mangbon e Jumbo Daniel — Nasarawa State University e Federal School of Statistics, Nigéria | 2025 | Artigo de revisão | [Acessar o PDF](https://www.trendytechjournals.com/ijtret/volume9/issue3-5.pdf) | Complementa o estudo ao abordar o fator humano, as técnicas de engenharia social, o uso de IA e as estratégias de detecção e prevenção. |
 
 ## 2.1 Critérios de seleção
 
